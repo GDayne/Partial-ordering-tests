@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "PartialOrderingTests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"test",
+		"coverageSet"
+	],
+	"name" : "ItemTest",
+	"type" : "normal"
+}
